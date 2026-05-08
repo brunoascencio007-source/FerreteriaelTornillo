@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>ArkeMobili</title>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="C:\Users\PROPIETARIO\Desktop\estiloindex1.css">
+</head>
+<body>
+<div>
+<h1>ArkeMobili</h1>
+<ul>
+<li><a href="index.html">inicio</a></li>
+<li><a href="galeria.html">Galeria</a></li>
+<li><a href="nosotros.html">inicio</a></li>
+<li><a href="novedades.html">Galeria</a></li>
+</ul>
+<button>Click Aqui</button>
+</div>
+<div>
+<h2>Acerca de nosotros</h2>
+<p>Somos una empresa enfocada en la creacion de salas</p>
+</div>
+<div>&copy; Todos los derechos reservados</div>
+</body>
+</html>
